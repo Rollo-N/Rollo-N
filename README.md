@@ -2,7 +2,7 @@
                               
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Home Network Recon Lab](https://github.com/Rollo-N/LABURL)
+  - [Home Network Recon Lab](https://github.com/Rollo-N/[LABURL](https://github.com/Rollo-N/Azure-SOC-Home-Lab/blob/main/README.md))
 
 
   - [Azure SOC Home Lab](https://github.com/Rollo-N/LABURL)
