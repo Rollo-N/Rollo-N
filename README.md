@@ -5,7 +5,7 @@
   - [Home Network Recon Lab](https://github.com/Rollo-N/Azure-SOC-Home-Lab)
 
 
-  - [Azure SOC Home Lab]([https://github.com/Rollo-N/LABUR](https://github.com/Rollo-N/Azure-SOC-Home-Lab)L)
+  - [Azure SOC Home Lab](https://github.com/Rollo-N/LABUR](https://github.com/Rollo-N/Azure-SOC-Home-Lab)L)
 
 
 <h2>📃 Certifications</h2>
