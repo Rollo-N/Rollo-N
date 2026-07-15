@@ -7,6 +7,8 @@
 
   - [Azure SOC Home Lab](https://github.com/Rollo-N/Azure-SOC-Home-Lab)
 
+  - [Active Directory Home Lab](https://github.com/Rollo-N/Active-Directory-Home-Lab)
+
 
 <h2>📃 Certifications</h2>
 
