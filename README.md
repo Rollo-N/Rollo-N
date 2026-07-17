@@ -2,7 +2,7 @@
                               
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Home Network Recon Lab]()
+  - [Home Network Recon Lab](https://github.com/Rollo-N/Home-Network-Reconnaissance-Asset-Inventory)
 
 
   - [Azure SOC Home Lab](https://github.com/Rollo-N/Azure-SOC-Home-Lab)
