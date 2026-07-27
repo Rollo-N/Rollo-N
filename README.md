@@ -40,14 +40,14 @@
 
 <br>
 
-### Studying
+### Studying:
 [![Learning](https://skillicons.dev/icons?i=azure,sqlite,linux,windows,github)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
 -->
 
-### Hobbies
+### Hobbies:
 
 - 🏄‍♂️ Surfing
 - ♠️ Poker
