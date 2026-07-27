@@ -61,3 +61,5 @@
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://docs.google.com/document/d/1F5iRkN8xyqPiTlSiyI2TQtMtDoPrtcZcUOjlz5MUWME/edit?tab=t.0" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00CCFFD7&descAlign=50" alt="header"/> 
