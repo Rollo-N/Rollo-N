@@ -9,7 +9,8 @@
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00CCFFD7&width=435&lines=Hello%2C+it's+Juan+Pablo;Cybersecurity+Analyst" alt="Typing SVG" /></a>
 
- <img width="700" height="300" alt="terminal" src="https://github.com/user-attachments/assets/e195e974-e33c-4e61-8c1a-fde0286e4251" />
+<img width="700" height="250" alt="terminal (2)" src="https://github.com/user-attachments/assets/35d5f1b2-76b3-48db-8258-ff0c3b99f452" />
+
 
 
 <br>
