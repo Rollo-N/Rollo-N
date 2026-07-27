@@ -1,15 +1,16 @@
 <!--
-    Hey there, I'm Daria Stanilevici!
+    Hey there, I'm JP!
     Happy to see you here exploring my README code
     Feel free to inspire!
-    
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @daria-stanilevici :))
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00CCFFD7&descAlign=50" alt="header"/> 
 
+
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00CCFFD7&width=435&lines=Hello%2C+it's+Juan+Pablo;Cybersecurity+Analyst" alt="Typing SVG" /></a>
+
+ <img width="700" height="300" alt="terminal" src="https://github.com/user-attachments/assets/e195e974-e33c-4e61-8c1a-fde0286e4251" />
+
 
 <br>
 <br>
