@@ -13,7 +13,7 @@
 
 
 
-<br>
+
 <br>
 
 <!--
@@ -24,9 +24,6 @@
     <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
 </div>
 
-<!--
-     My mission, because I'm a superhero!
--->
 <!--
      This is the list of my projects!
 -->
