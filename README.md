@@ -36,6 +36,9 @@
 
   - [Active Directory Home Lab](https://github.com/Rollo-N/Active-Directory-Home-Lab)
 
+  - [File Integrity Monitor](https://github.com/Rollo-N/File-Integrity-Monitor/tree/main)
+
+
 <br>
 
 ### Studying:
