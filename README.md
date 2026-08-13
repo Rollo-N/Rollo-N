@@ -33,6 +33,8 @@
 
   - [Home Network Recon Lab](https://github.com/Rollo-N/Home-Network-Reconnaissance-Asset-Inventory)
 
+  - [Metasploitable2 Vulnerability Assessment Lab](https://github.com/Rollo-N/Metasploitable2-Vulnerability-Assessment-Lab/blob/main/README.md)
+
 
   - [Azure SOC Home Lab](https://github.com/Rollo-N/Azure-SOC-Home-Lab)
 
